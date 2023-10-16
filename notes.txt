@@ -109,6 +109,8 @@ function greet (){
 greet()
 -------------------------------------------------------------------------------------------------------------------
 Template literals
+It help us overcome concatenation
+`${expression}`
 var a =10;
 var b = 20;
 console.log(`the sum of two number a & b = $(a+b)`)
