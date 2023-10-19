@@ -119,7 +119,7 @@ console.log(`the sum of two number a & b = $(a+b)`)
 Convert a string into character Array
 syntax : ...
 exanple 1
-var arr["Trinethra];
+var arr=["Trinethra"];
 console.log(...arr)
 //examle 2 
 var arr1 =["bob","john","sofia"];
